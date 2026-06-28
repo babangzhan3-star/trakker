@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "kode_mk": "IF4301",
+    "nama_mk": "Pemrograman Web Lanjut",
+    "sks": 3,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 1
+  },
+  {
+    "id": 2,
+    "kode_mk": "IF3202",
+    "nama_mk": "Algoritma dan Pemrograman",
+    "sks": 4,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 1
+  },
+  {
+    "id": 3,
+    "kode_mk": "IF4105",
+    "nama_mk": "Basis Data Lanjut",
+    "sks": 3,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 1
+  },
+  {
+    "id": 4,
+    "kode_mk": "IF4401",
+    "nama_mk": "Rekayasa Perangkat Lunak",
+    "sks": 3,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 1
+  },
+  {
+    "id": 5,
+    "kode_mk": "IF3303",
+    "nama_mk": "Sistem Operasi",
+    "sks": 3,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 0
+  },
+  {
+    "id": 6,
+    "kode_mk": "IF4204",
+    "nama_mk": "Jaringan Komputer",
+    "sks": 4,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 0
+  },
+  {
+    "id": 7,
+    "kode_mk": "IF4502",
+    "nama_mk": "Kecerdasan Buatan",
+    "sks": 3,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 0
+  },
+  {
+    "id": 8,
+    "kode_mk": "IF3101",
+    "nama_mk": "Statistika",
+    "sks": 2,
+    "created_at": "2026-01-01T00:00:00.000000Z",
+    "updated_at": "2026-01-01T00:00:00.000000Z",
+    "projects_count": 0
+  }
+]
